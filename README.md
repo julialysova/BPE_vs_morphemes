@@ -5,8 +5,6 @@
 
 **analysis.py** - Comparison of BPE and morphemes segmantation approaches.
 
-**scrapped_tikhonov** - Scrapped content from https://www.slovorod.ru/der-tikhonov/tih-p.htm letter by letter.
-
 **data.txt** - Final dataset of lemmas and morphemes
 
 ### TO SET UP THE ENVIRONMENT
