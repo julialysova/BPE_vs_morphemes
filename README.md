@@ -1,7 +1,7 @@
 # Morpheme and BPE generative language models comparison
 
 
-**ыскфззук.py** - Srapping of Russian lemmas and morphemes from the page https://www.slovorod.ru/der-tikhonov/tih-p.htm.
+**scrapper.py** - Srapping of Russian lemmas and morphemes from the page https://www.slovorod.ru/der-tikhonov/tih-p.htm.
 
 **analysis.py** - Comparison of BPE and morphemes segmantation approaches.
 
