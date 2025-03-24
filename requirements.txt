@@ -14,7 +14,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.1
 mpmath==1.3.0
 networkx==3.4.2
-numpy==2.2.4
+numpy==1.26.4
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
@@ -28,10 +28,10 @@ safetensors==0.5.3
 six==1.17.0
 soupsieve==2.6
 sympy==1.13.3
-tokenizers==0.21.1
-torch==2.2.2
+tokenizers==0.15.2
+torch==2.1.0
 tqdm==4.67.1
-transformers==4.50.0
+transformers==4.35.2
 typing_extensions==4.12.2
 tzdata==2025.2
 urllib3==2.3.0
